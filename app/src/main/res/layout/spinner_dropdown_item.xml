@@ -11,10 +11,9 @@
     android:textColor="@color/black"
     android:textSize="30sp"
     android:background="@drawable/color_selector"
-    android:paddingLeft="10dp"
-    android:paddingRight="10dp"
-
-    android:maxLines="1"/>
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:singleLine="true"/>
 
 
 
